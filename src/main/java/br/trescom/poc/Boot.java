@@ -21,16 +21,7 @@ public class Boot {
         return dataSource;
     }
 
-    @Bean
-    public InternalResourceViewResolver internalResourceViewResolver() {
-        InternalResourceViewResolver resolver = new InternalResourceViewResolver();
-        resolver.setPrefix("/WEB-INF/views/");
-        resolver.setSuffix(".jsp");
-        return resolver;
-    }
-
     public static void main(String[] args) {
-
         SpringApplication.run(Boot.class, args);
     }
 }

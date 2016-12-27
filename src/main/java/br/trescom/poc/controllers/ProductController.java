@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 @Controller
 @RequestMapping("/produto")
-public class HomeController {
+public class ProductController {
 
     @Autowired
     ProductRepository produtoRepository;
