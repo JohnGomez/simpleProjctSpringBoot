@@ -1,5 +1,11 @@
-br/trescom/poc/models/Category.class
+br/trescom/poc/daos/StateRepository.class
+br/trescom/poc/models/City.class
 br/trescom/poc/models/Product.class
-br/trescom/poc/controllers/HomeController.class
-br/trescom/poc/daos/ProductRepository.class
+br/trescom/poc/controllers/CityController.class
+br/trescom/poc/controllers/ProductController.class
+br/trescom/poc/models/State.class
 br/trescom/poc/Boot.class
+br/trescom/poc/models/Category.class
+br/trescom/poc/controllers/StateController.class
+br/trescom/poc/daos/ProductRepository.class
+br/trescom/poc/daos/CityRepository.class
