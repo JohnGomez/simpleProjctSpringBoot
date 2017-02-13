@@ -4,6 +4,7 @@
 /Users/johngomes/Documents/workspace/simpleProjctSpringBoot/src/main/java/br/trescom/poc/models/Product.java
 /Users/johngomes/Documents/workspace/simpleProjctSpringBoot/src/main/java/br/trescom/poc/controllers/StateController.java
 /Users/johngomes/Documents/workspace/simpleProjctSpringBoot/src/main/java/br/trescom/poc/daos/ProductRepository.java
+/Users/johngomes/Documents/workspace/simpleProjctSpringBoot/src/main/java/br/trescom/poc/services/FileService.java
 /Users/johngomes/Documents/workspace/simpleProjctSpringBoot/src/main/java/br/trescom/poc/controllers/CityController.java
 /Users/johngomes/Documents/workspace/simpleProjctSpringBoot/src/main/java/br/trescom/poc/daos/StateRepository.java
 /Users/johngomes/Documents/workspace/simpleProjctSpringBoot/src/main/java/br/trescom/poc/models/Category.java

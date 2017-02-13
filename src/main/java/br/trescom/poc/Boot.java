@@ -12,10 +12,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 @SpringBootApplication
 public class Boot extends WebMvcConfigurerAdapter {
 
-//    @Override
-//    public void addResourceHandlers(final ResourceHandlerRegistry registry) {
-//    registry.addResourceHandler("/resources/**").addResourceLocations("/resources/");
-//    }
     @Bean
     public DataSource dataSource(Environment environment) {
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
